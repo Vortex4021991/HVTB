@@ -237,6 +237,7 @@
 
 .tScript .chatlog__author-name {
     font-weight: 500;
+    color: #98dfd6 !important;
 }
 
 .tScript .chatlog__timestamp {
@@ -592,5 +593,6 @@
     font-size: 0.85em;
     font-weight: 500;
 }
+
 
             
